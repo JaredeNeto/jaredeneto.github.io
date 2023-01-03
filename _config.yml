@@ -46,7 +46,7 @@ linkedin_username: jaredeneto
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ola, estamos ai pra que precisar, pagando bem que mal tem?.
 
@@ -110,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
