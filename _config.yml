@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Jarede Neto
-title: Mlk Brabo
+title: Dad | Developer | QA
 email: jarede.pereira@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -30,13 +30,13 @@ linkedin_username: jaredeneto
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://www.itsgoingto.be
+  - title: another link
+    icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+    url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,9 +48,9 @@ linkedin_username: jaredeneto
 # about_title: About Me
 about_profile_image: images/profile_1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ola, estamos ai pra que precisar, pagando bem que mal tem?.
+  Full-time parent, business-time developer, i keep passionate for learning/teaching and always curious for new types of iterations and technologies. For 11+ years now, from application support, specialized consulting development, quality, automation and more recent leadership, portfolio management, engagement and strategy. 
 
-  Me garanto em: <mark>Node</mark> e <mark>Automação</mark>
+  Proeficient: <mark>sustainable development</mark>, <mark>test techniques (manual and automated)</mark>, <mark>team engagement</mark>
 
 content:
   - title: Projects # Title for the section
@@ -77,6 +77,7 @@ content:
     content:
       - layout: left
         title: The Boring Company
+        icon: fab fa-github
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
